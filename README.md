@@ -12,17 +12,15 @@ An end-to-end project using Google Gemini, Python, and Streamlit to create an ap
 3.	You can download the notes as a text file by clicking the download button.
 
 ## Technologies Used
-<code><img height="30" src="https://github.com/AdritPal08/Gemify-LLM-APP/blob/main/readme_resources/Google-Gemini.png"></code>
-<code><img height="30" src="https://github.com/AdritPal08/Gemify-LLM-APP/blob/main/readme_resources/Streamlit.png"></code>
+<code><img height="30" src="https://github.com/HectorTa1989/Gemify-LLM-APP/blob/main/readme_resources/Google-Gemini.png"></code>
+<code><img height="30" src="https://github.com/HectorTa1989/Gemify-LLM-APP/blob/main/readme_resources/Streamlit.png"></code>
 
 ## License :
 [GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
 
 ## Follow Me :
 <div align="center">
-    <a href="https://github.com/AdritPal08" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&colorB=555" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/adritpal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&colorB=0077B5" alt="LinkedIn"></a>
-    <a href="https://www.kaggle.com/adritpal08/" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-teal?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adritpal08/" alt="Kaggle"></a>
+    <a href="https://github.com/HectorTa1989" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&colorB=555" alt="GitHub"></a>
 </div>
 
 
