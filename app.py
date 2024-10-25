@@ -188,6 +188,6 @@ footer_css = st.sidebar.markdown("""
 
 footer = st.sidebar.markdown("""
 <div class="footer">
-Created by : Adrit Pal
+Created by : Hector Ta
 </div>
 """, unsafe_allow_html=True)
