@@ -11,9 +11,6 @@ An end-to-end project using Google Gemini, Python, and Streamlit to create an ap
 2.	You can also choose the language of the generated notes by selecting it from the language dropdown.
 3.	You can download the notes as a text file by clicking the download button.
 
-## Technologies Used
-<code><img height="30" src="https://github.com/HectorTa1989/Gemify-LLM-APP/blob/main/readme_resources/Google-Gemini.png"></code>
-<code><img height="30" src="https://github.com/HectorTa1989/Gemify-LLM-APP/blob/main/readme_resources/Streamlit.png"></code>
 
 ## License :
 [GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
