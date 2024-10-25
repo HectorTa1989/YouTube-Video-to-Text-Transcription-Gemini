@@ -20,7 +20,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='Notes Craft Pro',
 version='0.1',
-author='Adrit Pal',
+author='Hector Ta',
 author_email='adritpal4@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
